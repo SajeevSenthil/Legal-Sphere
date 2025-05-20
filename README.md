@@ -144,9 +144,9 @@ Built using **Flutter** and **Dart** for a **cross-platform** and **user-friendl
       <b><a href="https://github.com/Charuvarthan">Charuvarthan T </a></b>
     </td>
       <td align="center">
-      <img src="https://avatars.githubusercontent.com/suganth07?s=300" alt="Abiruth" width="150">
+      <img src="https://avatars.githubusercontent.com/abiruth29?s=300" alt="Abiruth" width="150">
       <br>
-      <b><a href="https://github.com/suganth07">Abiruth S</a></b>
+      <b><a href="https://github.com/abiruth29">Abiruth S</a></b>
     </td>
   </tr>
 </table>
